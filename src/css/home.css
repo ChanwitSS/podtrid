@@ -1,0 +1,31 @@
+
+html,body{
+    background-color: pink;
+    
+}
+.home-page{
+    max-width: 700px;
+    margin: auto;
+
+  }
+.box{
+    background-color: lightcyan;
+    padding: 20px;
+    margin: 30px;
+}
+.image{
+    width: 100%;
+}
+.button{
+    background-color: lightsteelblue
+    ;
+    padding: 10px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.img-box{
+    background: white;
+    width: 50px;
+    height: 200px;
+}
